@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FL4Tool", "FL4Tool\FL4Tool.csproj", "{CFBF7AB0-BEBE-4471-B03A-768B35DD5CB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScriptTool", "ScriptTool\ScriptTool.csproj", "{9B968AE4-DB7A-4E2A-9539-2E4D7A9AFA51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFBF7AB0-BEBE-4471-B03A-768B35DD5CB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFBF7AB0-BEBE-4471-B03A-768B35DD5CB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFBF7AB0-BEBE-4471-B03A-768B35DD5CB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFBF7AB0-BEBE-4471-B03A-768B35DD5CB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B968AE4-DB7A-4E2A-9539-2E4D7A9AFA51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B968AE4-DB7A-4E2A-9539-2E4D7A9AFA51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B968AE4-DB7A-4E2A-9539-2E4D7A9AFA51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B968AE4-DB7A-4E2A-9539-2E4D7A9AFA51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA7EA478-A44D-4162-94D4-8C61D80D37D0}
+	EndGlobalSection
+EndGlobal
